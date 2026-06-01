@@ -1,1 +1,9 @@
-[]
+[
+    {
+        "expense_id": "97404923-4c63-4d47-b211-1be3667a9d6e",
+        "amount": 20.0,
+        "category": "Food",
+        "description": "Pasta",
+        "date": "2026-01-06"
+    }
+]
